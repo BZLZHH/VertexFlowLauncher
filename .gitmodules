@@ -1,0 +1,6 @@
+[submodule "VertexFlowLauncher/third_party/spdlog"]
+	path = VertexFlowLauncher/third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "VertexFlowLauncher/third_party/glfw"]
+	path = VertexFlowLauncher/third_party/glfw
+	url = https://github.com/glfw/glfw.git
